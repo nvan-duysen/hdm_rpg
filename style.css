@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'EOTG';
+    src: url('assets/fonts/eotg_font/edgeofthegalaxyregular-ovea6-webfont.woff2') format('woff2'),
+         url('assets/fonts/eotg_font/edgeofthegalaxyregular-ovea6-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DDBB';
+    src: url('assets/fonts/ddbb_font/disposabledroidbb-webfont.woff2') format('woff2'),
+         url('assets/fonts/ddbb_font/disposabledroidbb-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    position:absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    margin:0;
+    overflow: hidden;
+}
+
+canvas {
+    white-space: pre-wrap;
+}
